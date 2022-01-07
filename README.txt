@@ -1,0 +1,1 @@
+Limitado a 31db por la bocina, para evitar saturacion
